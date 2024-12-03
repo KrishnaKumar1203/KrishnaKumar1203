@@ -1,5 +1,6 @@
-# ✍ About Me:
-I'm a Senior Quality Engineer adept in Manual and Automation Testing with Development knowledge. Committed to enhancing software quality for seamless performance.
+# ✍ My Objective:
+
+Striving to contribute efficiently and effectively, adding value to the employer to achieve organizational goals. Aiming to enhance personal knowledge and grow alongside the employer
 
 # 👜 Total Experience:
 Having total experience of 6+ Years till date.
