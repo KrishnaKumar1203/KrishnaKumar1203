@@ -3,10 +3,19 @@
 Striving to contribute efficiently and effectively, adding value to the employer to achieve organizational goals. Aiming to enhance personal knowledge and grow alongside the employer
 
 <div style="text-align: left;"> 
-  <a href="./Krishna_Kumar_Resume_1203.pdf" download> 
+  <a href="Krishna_Kumar_Resume_1203.pdf" download> 
    <img src="https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge&logo=github" alt="Download Resume" style="width: 50px; height: 50px; border-radius: 50%;">
   </a>
 </div>
+</div>
+  <a target="_blank" href="Krishna_Kumar_Resume_1203.pdf.pdf">
+      <button class="Download-cv">Download CV</button>
+  </a>
+  <div class="tools-images">
+      <img src="IMG_0841 (1).jpg" alt="Tools Image">
+  </div>
+</div>
+
 
 ## 👜 Total Experience:
 Having total experience of 6+ Years till date.
