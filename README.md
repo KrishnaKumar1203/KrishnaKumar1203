@@ -22,19 +22,19 @@ Previously worked as a Member of Technical Staff – QA at Blue Whale Advisory S
 
 ## 💼 Work Experience:
 
-### <img src = "Optum.ico" width = 10 height =10>  Optum Global Solution (UHG) Pvt Ltd, Gurgaon
+### <img src = "Optum.ico" width = 20 height =20>  Optum Global Solution (UHG) Pvt Ltd, Gurgaon
 
 Domain: - ISB_QE (Health) </br>
 Product: - ISB – (MB, MC & MR) </br>
 Duration:  Mar-2022 - Year Till date
 
-### ![Icon Description](Bluestacks.ico) Blue Whale Advisory Pvt ltd, Gurgaon
+### <img src = "Bluestacks.ico" width = 20 height =20> Blue Whale Advisory Pvt ltd, Gurgaon
 
 Domain: - BGP-QA </br>
 Product: - BS5 and BSX </br>
 Duration:  Aug-2021 – Mar-2022
 
-### ![Icon Description](Wipro.ico) WIPRO LIMITED, Noida
+### <img src = "Wipro.ico" width = 20 height =20> WIPRO LIMITED, Noida
 
 Domain: - HW </br>
 Client: - American Honda, Ally, Elly lily, CNA, Rockwell </br>
