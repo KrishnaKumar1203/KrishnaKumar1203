@@ -4,7 +4,7 @@ Striving to contribute efficiently and effectively, adding value to the employer
 
 <div style="text-align: left;"> 
   <a href="Krishna_Kumar_Resume_1203.pdf" download> 
-   <img src="https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge" alt="">
+   <img src="https://img.shields.io/badge/Download%20Resume%20-8A2BE2" alt="">
   </a>
 </div>
 <div style="text-align: left;"> 
