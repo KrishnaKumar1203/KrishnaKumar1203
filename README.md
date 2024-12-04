@@ -20,15 +20,13 @@ Domain: - ISB_QE (Health) </br>
 Product: - ISB – (MB, MC & MR) </br>
 Duration:  Mar-2022 - Year Till date
 
-![Icon Description](KrishnaKumar1203/KrishnaKumar1203/Bluestacks.ico) 
-### Blue Whale Advisory Pvt ltd, Gurgaon
+### ![Icon Description](Bluestacks.ico) Blue Whale Advisory Pvt ltd, Gurgaon
 
 Domain: - BGP-QA </br>
 Product: - BS5 and BSX </br>
 Duration:  Aug-2021 – Mar-2022
-![alt text](https://github.com/KrishnaKumar1203/KrishnaKumar1203/Wipro.ico)
-![Icon Description](KrishnaKumar1203/KrishnaKumar1203/Wipro.ico) 
-### WIPRO LIMITED, Noida
+
+### ![Icon Description](Wipro.ico) WIPRO LIMITED, Noida
 
 Domain: - HW </br>
 Client: - American Honda, Ally, Elly lily, CNA, Rockwell </br>
