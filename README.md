@@ -5,7 +5,7 @@ Striving to contribute efficiently and effectively, adding value to the employer
 ## 👜 Total Experience:
 Having total experience of 6+ Years till date.
 
-## Profile Summary and Areas of Expertise:
+## 📖 Profile Summary and Areas of Expertise:
 
 Presently serving as a Senior Quality Engineer (Senior-QE) at Optum Global Solution (UHG) Pvt Ltd, Gurgaon, with a cumulative experience of 2.6 years. Specialized in Software Manual and Automation Testing on ORMB.</br>
 
