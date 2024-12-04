@@ -16,22 +16,22 @@ Having total experience of 6+ Years till date.
 ![Icon Description](KrishnaKumar1203/Krishna/Optum.ico) 
 ### Optum Global Solution (UHG) Pvt Ltd, Gurgaon
 
-Domain: - ISB_QE (Health)
-Product: - ISB – (MB, MC & MR)
+Domain: - ISB_QE (Health) </br>
+Product: - ISB – (MB, MC & MR) </br>
 Duration:  Mar-2022 - Year Till date
 
 ![Icon Description](KrishnaKumar1203/Krishna/Bluestacks.ico) 
 ### Blue Whale Advisory Pvt ltd, Gurgaon
 
-Domain: - BGP-QA
-Product: - BS5 and BSX
+Domain: - BGP-QA </br>
+Product: - BS5 and BSX </br>
 Duration:  Aug-2021 – Mar-2022
 
 ![Icon Description](KrishnaKumar1203/Krishna/Wipro.ico) 
 ### WIPRO LIMITED, Noida
 
-Domain: - HW
-Client: - American Honda, Ally, Elly lily, CNA, Rockwell
+Domain: - HW </br>
+Client: - American Honda, Ally, Elly lily, CNA, Rockwell </br>
 Duration: May-2018 – Aug-2021
 
 # 🎓 Educational Qualification:
@@ -42,20 +42,20 @@ Duration: May-2018 – Aug-2021
 | **10th**        |      C.B.S.E      | SS.Children Academy                    |2012             |
 
 # 📚 Trainings undergone:
-•	Organization         : IBM India Pvt.Ltd
-•	Training Duration : 6 Weeks
-•	Project Name        : Internet of Things (IOT)
+•	Organization         : IBM India Pvt.Ltd </br>
+•	Training Duration.   : 6 Weeks </br>
+•	Project Name         : Internet of Things (IOT)
 
 # 📋 Strength:
-•	Demonstrates strong analytical skills
-•	Adapts easily to change
-•	Displays a curious mindset and a willingness to learn new concepts
+•	Demonstrates strong analytical skills </br>
+•	Adapts easily to change </br>
+•	Displays a curious mindset and a willingness to learn new concepts </br>
 •	Proven proficiency in problem-solving
 
 # 📈 My Achievements:
-•	Honored with the "Shimmer" Certificate of Appreciation for dedication and contributions that met Client deadlines.
-•	Achieved the "eCAT Warrior" recognition for zero eCAT defects in Annual Enrollment (annual process).
-•	Received appreciation emails from both the manager and onshore lead.
+•	Honored with the "Shimmer" Certificate of Appreciation for dedication and contributions that met Client deadlines. </br>
+•	Achieved the "eCAT Warrior" recognition for zero eCAT defects in Annual Enrollment (annual process). </br>
+•	Received appreciation emails from both the manager and onshore lead. </br>
 •	Holder of a VMware Virtualization certification earned during B.Tech.
 
   
