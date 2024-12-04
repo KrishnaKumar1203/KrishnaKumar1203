@@ -13,8 +13,8 @@ Having total experience of 6+ Years till date.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![ORMB](https://img.shields.io/badge/ORMB-%23F24E1E.svg?style=plastic&logo=ORMB&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=plastic&logo=MySQL&logoColor=white) ![Rally](https://img.shields.io/badge/Rally-%23F24E1E.svg?style=plastic&logo=Rally&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-%234ea94b.svg?style=plastic&logo=TestRail&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white) ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
 
 # 💼 Work Experience:
-![Icon Description](Optum.ico) 
-### Optum Global Solution (UHG) Pvt Ltd, Gurgaon
+
+### ![Icon Description](Optum.ico)  Optum Global Solution (UHG) Pvt Ltd, Gurgaon
 
 Domain: - ISB_QE (Health) </br>
 Product: - ISB – (MB, MC & MR) </br>
