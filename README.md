@@ -22,7 +22,7 @@ Previously worked as a Member of Technical Staff – QA at Blue Whale Advisory S
 
 ## 💼 Work Experience:
 
-### <img src = "Optum.ico" width = 100 height =100>  Optum Global Solution (UHG) Pvt Ltd, Gurgaon
+### <img src = "Optum.ico" width = 10 height =10>  Optum Global Solution (UHG) Pvt Ltd, Gurgaon
 
 Domain: - ISB_QE (Health) </br>
 Product: - ISB – (MB, MC & MR) </br>
