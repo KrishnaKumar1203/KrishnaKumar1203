@@ -2,7 +2,7 @@
 
 Striving to contribute efficiently and effectively, adding value to the employer to achieve organizational goals. Aiming to enhance personal knowledge and grow alongside the employer
 
-<div style="text-align: right;"> 
+<div style="text-align: left;"> 
   <a href="./Krishna_Kumar_Resume_1203.pdf" download> 
     <img src="https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge&logo=github" alt="Download Resume">
   </a> 
