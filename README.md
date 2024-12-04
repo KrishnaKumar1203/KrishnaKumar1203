@@ -1,7 +1,13 @@
 ## ✍ My Objective:
 
 Striving to contribute efficiently and effectively, adding value to the employer to achieve organizational goals. Aiming to enhance personal knowledge and grow alongside the employer
-<div style="text-align: right;"> <a href="./resume.pdf" download> <img src="https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge&logo=github" alt="Download Resume"> </a> </div>
+
+<div style="text-align: right;"> 
+  <a href="./Krishna_Kumar_Resume_1203.pdf" download> 
+    <img src="https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge&logo=github" alt="Download Resume">
+  </a> 
+</div>
+
 ## 👜 Total Experience:
 Having total experience of 6+ Years till date.
 
