@@ -26,7 +26,7 @@ Duration:  Mar-2022 - Year Till date
 Domain: - BGP-QA </br>
 Product: - BS5 and BSX </br>
 Duration:  Aug-2021 – Mar-2022
-![alt text](https://github.com/[KrishnaKumar1203]/[KrishnaKumar1203]/[main]/Wipro.ico)
+![alt text](https://github.com/KrishnaKumar1203/KrishnaKumar1203/main/Wipro.ico)
 ![Icon Description](KrishnaKumar1203/KrishnaKumar1203/Wipro.ico) 
 ### WIPRO LIMITED, Noida
 
