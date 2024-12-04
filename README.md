@@ -4,8 +4,8 @@ Striving to contribute efficiently and effectively, adding value to the employer
 
 <div style="text-align: left;"> 
   <a href="./Krishna_Kumar_Resume_1203.pdf" download> 
-    <img src="https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge&logo=github" alt="Download Resume">
-  </a> 
+   <img src="https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge&logo=github&logoWidth=20" alt="Download Resume" style="border-radius: 50px; padding: 10px;">
+  </a>
 </div>
 
 ## 👜 Total Experience:
