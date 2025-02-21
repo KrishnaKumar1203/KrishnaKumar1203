@@ -15,7 +15,7 @@ Having total experience of 6+ Years till date.
 
 ## 📖 Profile Summary and Areas of Expertise:
 
-Presently serving as a Senior Quality Engineer (Senior-QE) at Optum Global Solution (UHG) Pvt Ltd, Gurgaon, with a cumulative experience of 2.6 years. Specialized in Software Manual and Automation Testing on ORMB.</br>
+Presently serving as a Senior Quality Engineer (Senior-QE) at Optum Global Solution (UHG) Pvt Ltd, Gurgaon, with a cumulative experience of 3 years. Specialized in Software Manual and Automation Testing on ORMB.</br>
 
 Previously held the role of an Analyst in Software Testing [QA/QC] at Wipro Limited, Noida, accumulating over 3 years of progressive experience. Proficient in Software Manual, Automation Testing, and Configuration under Benefits administration.</br>
 
