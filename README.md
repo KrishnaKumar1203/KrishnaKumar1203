@@ -8,8 +8,6 @@ Striving to contribute efficiently and effectively, adding value to the employer
   </a>
 </div>
 
-
-
 ## 👜 Total Experience:
 Having total experience of 6+ Years till date.
 
@@ -46,11 +44,6 @@ Previously worked as a Member of Technical Staff – QA at Blue Whale Advisory S
 
 
 ## 💼 Work Experience:
-
-<span style="display:inline-block; background:#00558C; color:white; font-family:Arial, sans-serif; padding:3px 10px; border-radius:3px; font-size:12px; box-shadow:inset 0 -1px 0 rgba(0,0,0,0.25);">
-  <img src="Optum.ico" width="20" height="20" style="vertical-align:middle; margin-right:5px;">
-  Optum
-</span>
 
 ### <img src = "Optum.ico" width = 20 height =20>  Optum Global Solution (UHG) Pvt Ltd, Gurgaon
 
