@@ -48,7 +48,7 @@ Domain: - HW </br>
 Client: - American Honda, Ally, Elly lily, CNA, Rockwell </br>
 Duration: -May-2018 – Aug-2021
 
-### Key Projects
+### 📽 Key Projects
 
 1. ISB Automation Suite – UHG
   •	Tech: Java, Selenium, TestNG, Maven, Jenkins, ORMB
