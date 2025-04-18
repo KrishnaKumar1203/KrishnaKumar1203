@@ -51,19 +51,19 @@ Domain: - ISB_QE (Health) </br>
 Product: - ISB – (MB, MC & MR) </br>
 Duration: - Mar-2022 - Year Till date
 
-### <img src = "Bluestacks.ico" width = 20 height =20> Blue Whale Advisory Pvt ltd, Gurgaon
+### <img src = "Bluestacks.ico" width = 20 height =20> Blue Whale Advisory Pvt Ltd, Gurgaon
 
 Domain: - BGP-QA </br>
 Product: - BS5 and BSX </br>
 Duration: - Aug-2021 – Mar-2022
 
-### <img src = "Wipro.ico" width = 20 height =20> WIPRO LIMITED, Noida
+### <img src = "Wipro.ico" width = 20 height =20> Wipro Ltd, Noida
 
 Domain: - HW </br>
 Client: - American Honda, Ally, Elly lily, CNA, Rockwell </br>
 Duration: -May-2018 – Aug-2021
 
-### 📽 Key Projects
+## 📽 Key Projects
 
 1. ISB Automation Suite – UHG
   •	Tech: Java, Selenium, TestNG, Maven, Jenkins, ORMB
@@ -92,7 +92,7 @@ Duration: -May-2018 – Aug-2021
 •	Displays a curious mindset and a willingness to learn new concepts </br>
 •	Proven proficiency in problem-solving
 
-# 📈 My Achievements:
+## 📈 My Achievements:
 •	Honored with the "Shimmer" Certificate of Appreciation for dedication and contributions that met Client deadlines. </br>
 •	Achieved the "eCAT Warrior" recognition for zero eCAT defects in Annual Enrollment (annual process). </br>
 •	Received appreciation emails from both the manager and onshore lead. </br>
