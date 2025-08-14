@@ -3,7 +3,7 @@
 Striving to contribute efficiently and effectively, adding value to the employer to achieve organizational goals. Aiming to enhance personal knowledge and grow alongside the employer
 
 <div style="text-align: right;"> 
-  <a href="Krishna_Kumar_Senior_QA_Engineer.pdf" download>
+  <a href="Krishna_Kumar_Sr_QA_Engineer.pdf" download>
     <img src="https://img.shields.io/badge/Download_Resume-CV-blue" alt="Download Resume">
   </a>
 </div>
